@@ -278,8 +278,8 @@ footer nav a:hover {
 }
 
 .team-member img {
-  width: 90%;
-  max-height: 300px;
+  width: 100%;
+  max-height: 500px;
   object-fit: cover;
   border-radius: 15px;
   margin-bottom: 1em;
